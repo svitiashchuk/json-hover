@@ -1,12 +1,15 @@
 {
-  "name": "json-hover",
-  "displayName": "json-hover",
+  "name": "pretty-json-hover",
+  "displayName": "Pretty JSON hover",
   "description": "Hover over JSON-string literals in Go to see pretty-printed version in hover widget. Copy JSON with one click.",
   "version": "0.0.1",
-  "publisher": "svitiashchuk",
+  "publisher": "OleksiiSvitiashchuk",
   "author": {
     "name": "Oleksii Svitiashchuk",
     "email": "svityashchuk.oleksiy@gmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/svitiashchuk/json-hover"
   },
   "engines": {
     "vscode": "^1.96.0"
