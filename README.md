@@ -9,6 +9,8 @@ This is a Visual Studio Code extension that allows you to view and copy parsed J
 - Hover over Go string literals containing JSON data to see a parsed, formatted version of the JSON.
 - Click the "Copy" link to copy the JSON value to your clipboard.
 
+![Example](./img/ide_example.png)
+
 ## Installation
 
 1. While not published yet, you can install it manually:
